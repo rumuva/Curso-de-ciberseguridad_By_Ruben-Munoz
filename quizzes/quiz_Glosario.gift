@@ -1,0 +1,35 @@
+::GLOS-MC-Activo::¿Qué es un 'activo' en ciberseguridad?{=Algo valioso que quieres proteger (datos, cuentas, dispositivos) ~Cualquier virus informático ~La contraseña maestra ~Una copia de seguridad} 
+
+
+::GLOS-MC-Amenaza::¿Qué es una 'amenaza'?{~El hueco por donde entra el ataque =Algo que puede dañar un activo (phishing, malware, robo) ~La puntuación P×I ~La app de autenticación} 
+
+
+::GLOS-MC-Vuln::'Vulnerabilidad' significa…{~El daño que causa un ataque ~La probabilidad de que ocurra =El fallo/hueco que permite el ataque ~Un tipo de malware} 
+
+
+::GLOS-MC-Riesgo::Selecciona la mejor definición de 'riesgo'.{~Impacto − Probabilidad =Probabilidad × Impacto ~Amenaza + Vulnerabilidad ~Número de copias de seguridad} 
+
+
+::GLOS-MC-Control::Un 'control' es…{=Una medida para reducir un riesgo (MFA, copias, cifrado) ~La pantalla de ajustes de Windows ~El panel del router ~Una contraseña débil} 
+
+
+::GLOS-MC-MFA::¿Qué añade el MFA/2FA?{~Un tema oscuro al sistema =Un segundo paso de verificación ~Un antivirus ~Un nuevo correo} 
+
+
+::GLOS-MC-Cifrar::'Cifrar' un archivo es…{~Comprimirlo sin contraseña =Hacerlo secreto para quien no tenga la clave ~Borrarlo de forma segura ~Renombrarlo con un nombre raro} 
+
+
+::GLOS-MC-Phishing::¿Qué describiría mejor el 'phishing'?{~Un ataque físico al router =Engaño para robar datos haciéndose pasar por alguien ~Una actualización de Windows ~Un puerto de red} 
+
+
+::GLOS-MC-WiFi::Configuración Wi‑Fi mínima hoy:{~WEP =WPA2‑AES (o WPA3) y WPS desactivado ~TKIP ~Contraseña 12345678} 
+
+
+::GLOS-MC-Backup::Regla 3‑2‑1 significa…{~3 contraseñas, 2 usuarios, 1 móvil =3 copias, 2 medios, 1 fuera/desconectada ~3 routers, 2 redes, 1 invitado ~3 apps, 2 PCs, 1 nube} 
+
+
+::GLOS-TF-Codigos::Compartir códigos MFA por e‑mail es seguro.{F} 
+
+
+::GLOS-TF-Restauracion::Si no pruebas a restaurar, no sabes si tu copia funciona.{T} 
+

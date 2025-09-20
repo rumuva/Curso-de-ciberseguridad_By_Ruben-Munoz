@@ -1,0 +1,199 @@
+::S1-MC1::1. Fundamentos, inventario y priorización: concepto clave 1{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S1-MC2::1. Fundamentos, inventario y priorización: concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S1-MC3::1. Fundamentos, inventario y priorización: concepto clave 3{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S1-MC4::1. Fundamentos, inventario y priorización: concepto clave 4{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S1-MC5::1. Fundamentos, inventario y priorización: concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S1-MC6::1. Fundamentos, inventario y priorización: concepto clave 6{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S1-MC7::1. Fundamentos, inventario y priorización: concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S1-MC8::1. Fundamentos, inventario y priorización: concepto clave 8{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S1-TF1::1. Fundamentos, inventario y priorización — afirmación 1{F}
+
+::S1-TF2::1. Fundamentos, inventario y priorización — afirmación 2{T}
+
+::S2-MC1::2. Contraseñas‑frase, gestor y MFA: concepto clave 1{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S2-MC2::2. Contraseñas‑frase, gestor y MFA: concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S2-MC3::2. Contraseñas‑frase, gestor y MFA: concepto clave 3{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S2-MC4::2. Contraseñas‑frase, gestor y MFA: concepto clave 4{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S2-MC5::2. Contraseñas‑frase, gestor y MFA: concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S2-MC6::2. Contraseñas‑frase, gestor y MFA: concepto clave 6{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S2-MC7::2. Contraseñas‑frase, gestor y MFA: concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S2-MC8::2. Contraseñas‑frase, gestor y MFA: concepto clave 8{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S2-TF1::2. Contraseñas‑frase, gestor y MFA — afirmación 1{F}
+
+::S2-TF2::2. Contraseñas‑frase, gestor y MFA — afirmación 2{T}
+
+::S3-MC1::3. Señales y protocolo anti‑phishing: concepto clave 1{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S3-MC2::3. Señales y protocolo anti‑phishing: concepto clave 2{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S3-MC3::3. Señales y protocolo anti‑phishing: concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S3-MC4::3. Señales y protocolo anti‑phishing: concepto clave 4{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S3-MC5::3. Señales y protocolo anti‑phishing: concepto clave 5{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S3-MC6::3. Señales y protocolo anti‑phishing: concepto clave 6{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S3-MC7::3. Señales y protocolo anti‑phishing: concepto clave 7{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S3-MC8::3. Señales y protocolo anti‑phishing: concepto clave 8{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S3-TF1::3. Señales y protocolo anti‑phishing — afirmación 1{F}
+
+::S3-TF2::3. Señales y protocolo anti‑phishing — afirmación 2{T}
+
+::S4-MC1::4. Hardening básico de Windows 11: concepto clave 1{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S4-MC2::4. Hardening básico de Windows 11: concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S4-MC3::4. Hardening básico de Windows 11: concepto clave 3{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S4-MC4::4. Hardening básico de Windows 11: concepto clave 4{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S4-MC5::4. Hardening básico de Windows 11: concepto clave 5{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S4-MC6::4. Hardening básico de Windows 11: concepto clave 6{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S4-MC7::4. Hardening básico de Windows 11: concepto clave 7{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S4-MC8::4. Hardening básico de Windows 11: concepto clave 8{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S4-TF1::4. Hardening básico de Windows 11 — afirmación 1{F}
+
+::S4-TF2::4. Hardening básico de Windows 11 — afirmación 2{T}
+
+::S5-MC1::5. Wi‑Fi/Router seguro: concepto clave 1{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S5-MC2::5. Wi‑Fi/Router seguro: concepto clave 2{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S5-MC3::5. Wi‑Fi/Router seguro: concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S5-MC4::5. Wi‑Fi/Router seguro: concepto clave 4{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S5-MC5::5. Wi‑Fi/Router seguro: concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S5-MC6::5. Wi‑Fi/Router seguro: concepto clave 6{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S5-MC7::5. Wi‑Fi/Router seguro: concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S5-MC8::5. Wi‑Fi/Router seguro: concepto clave 8{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S5-TF1::5. Wi‑Fi/Router seguro — afirmación 1{F}
+
+::S5-TF2::5. Wi‑Fi/Router seguro — afirmación 2{T}
+
+::S6-MC1::6. Copias 3‑2‑1 + restauración: concepto clave 1{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S6-MC2::6. Copias 3‑2‑1 + restauración: concepto clave 2{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S6-MC3::6. Copias 3‑2‑1 + restauración: concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S6-MC4::6. Copias 3‑2‑1 + restauración: concepto clave 4{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S6-MC5::6. Copias 3‑2‑1 + restauración: concepto clave 5{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S6-MC6::6. Copias 3‑2‑1 + restauración: concepto clave 6{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S6-MC7::6. Copias 3‑2‑1 + restauración: concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S6-MC8::6. Copias 3‑2‑1 + restauración: concepto clave 8{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S6-TF1::6. Copias 3‑2‑1 + restauración — afirmación 1{F}
+
+::S6-TF2::6. Copias 3‑2‑1 + restauración — afirmación 2{T}
+
+::S7-MC1::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 1{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S7-MC2::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S7-MC3::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S7-MC4::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 4{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S7-MC5::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S7-MC6::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 6{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S7-MC7::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S7-MC8::7. Cifrado práctico (7‑Zip/VeraCrypt): concepto clave 8{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S7-TF1::7. Cifrado práctico (7‑Zip/VeraCrypt) — afirmación 1{F}
+
+::S7-TF2::7. Cifrado práctico (7‑Zip/VeraCrypt) — afirmación 2{T}
+
+::S8-MC1::8. Observación de tu red (ética): concepto clave 1{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S8-MC2::8. Observación de tu red (ética): concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S8-MC3::8. Observación de tu red (ética): concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S8-MC4::8. Observación de tu red (ética): concepto clave 4{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S8-MC5::8. Observación de tu red (ética): concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S8-MC6::8. Observación de tu red (ética): concepto clave 6{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S8-MC7::8. Observación de tu red (ética): concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S8-MC8::8. Observación de tu red (ética): concepto clave 8{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S8-TF1::8. Observación de tu red (ética) — afirmación 1{F}
+
+::S8-TF2::8. Observación de tu red (ética) — afirmación 2{T}
+
+::S9-MC1::9. Respuesta ante incidentes: concepto clave 1{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S9-MC2::9. Respuesta ante incidentes: concepto clave 2{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S9-MC3::9. Respuesta ante incidentes: concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 3 ~Opción incorrecta 1}
+
+::S9-MC4::9. Respuesta ante incidentes: concepto clave 4{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S9-MC5::9. Respuesta ante incidentes: concepto clave 5{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S9-MC6::9. Respuesta ante incidentes: concepto clave 6{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S9-MC7::9. Respuesta ante incidentes: concepto clave 7{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 2 ~Opción incorrecta 3}
+
+::S9-MC8::9. Respuesta ante incidentes: concepto clave 8{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S9-TF1::9. Respuesta ante incidentes — afirmación 1{F}
+
+::S9-TF2::9. Respuesta ante incidentes — afirmación 2{T}
+
+::S10-MC1::10. Proyecto integrador + test final: concepto clave 1{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S10-MC2::10. Proyecto integrador + test final: concepto clave 2{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S10-MC3::10. Proyecto integrador + test final: concepto clave 3{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S10-MC4::10. Proyecto integrador + test final: concepto clave 4{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S10-MC5::10. Proyecto integrador + test final: concepto clave 5{=Opción correcta ~Opción incorrecta 1 ~Opción incorrecta 3 ~Opción incorrecta 2}
+
+::S10-MC6::10. Proyecto integrador + test final: concepto clave 6{=Opción correcta ~Opción incorrecta 2 ~Opción incorrecta 1 ~Opción incorrecta 3}
+
+::S10-MC7::10. Proyecto integrador + test final: concepto clave 7{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 2 ~Opción incorrecta 1}
+
+::S10-MC8::10. Proyecto integrador + test final: concepto clave 8{=Opción correcta ~Opción incorrecta 3 ~Opción incorrecta 1 ~Opción incorrecta 2}
+
+::S10-TF1::10. Proyecto integrador + test final — afirmación 1{F}
+
+::S10-TF2::10. Proyecto integrador + test final — afirmación 2{T}

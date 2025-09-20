@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<manifest identifier='MANIFEST-CIBERSEG-50H' version='1.0' xmlns='http://www.imsproject.org/xsd/imscp_rootv1p1p2' xmlns:adlcp='http://www.adlnet.org/xsd/adlcp_rootv1p2'>
+  <organizations default='ORG1'>
+    <organization identifier='ORG1'>
+      <item identifier='ITEM1' identifierref='RES1'><title>01-S1-Fundamentos</title></item>
+      <item identifier='ITEM2' identifierref='RES2'><title>02-S2-Identidades-MFA</title></item>
+      <item identifier='ITEM3' identifierref='RES3'><title>03-S3-Phishing</title></item>
+      <item identifier='ITEM4' identifierref='RES4'><title>04-S4-Windows11</title></item>
+      <item identifier='ITEM5' identifierref='RES5'><title>05-S5-WiFi-Router</title></item>
+      <item identifier='ITEM6' identifierref='RES6'><title>06-S6-Copias-321</title></item>
+      <item identifier='ITEM7' identifierref='RES7'><title>07-S7-Cifrado</title></item>
+      <item identifier='ITEM8' identifierref='RES8'><title>08-S8-Observacion-Red</title></item>
+      <item identifier='ITEM9' identifierref='RES9'><title>09-S9-Incidentes</title></item>
+      <item identifier='ITEM10' identifierref='RES10'><title>10-S10-Proyecto-Test</title></item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier='RES1' type='webcontent' adlcp:scormtype='sco' href='01-S1-Fundamentos.html'><file href='01-S1-Fundamentos.html'/></resource>
+    <resource identifier='RES2' type='webcontent' adlcp:scormtype='sco' href='02-S2-Identidades-MFA.html'><file href='02-S2-Identidades-MFA.html'/></resource>
+    <resource identifier='RES3' type='webcontent' adlcp:scormtype='sco' href='03-S3-Phishing.html'><file href='03-S3-Phishing.html'/></resource>
+    <resource identifier='RES4' type='webcontent' adlcp:scormtype='sco' href='04-S4-Windows11.html'><file href='04-S4-Windows11.html'/></resource>
+    <resource identifier='RES5' type='webcontent' adlcp:scormtype='sco' href='05-S5-WiFi-Router.html'><file href='05-S5-WiFi-Router.html'/></resource>
+    <resource identifier='RES6' type='webcontent' adlcp:scormtype='sco' href='06-S6-Copias-321.html'><file href='06-S6-Copias-321.html'/></resource>
+    <resource identifier='RES7' type='webcontent' adlcp:scormtype='sco' href='07-S7-Cifrado.html'><file href='07-S7-Cifrado.html'/></resource>
+    <resource identifier='RES8' type='webcontent' adlcp:scormtype='sco' href='08-S8-Observacion-Red.html'><file href='08-S8-Observacion-Red.html'/></resource>
+    <resource identifier='RES9' type='webcontent' adlcp:scormtype='sco' href='09-S9-Incidentes.html'><file href='09-S9-Incidentes.html'/></resource>
+    <resource identifier='RES10' type='webcontent' adlcp:scormtype='sco' href='10-S10-Proyecto-Test.html'><file href='10-S10-Proyecto-Test.html'/></resource>
+  </resources>
+</manifest>

@@ -1,0 +1,134 @@
+{
+  "course": "Ciberseguridad 50h Paso a Paso",
+  "version": "2025-09-20",
+  "lessons": [
+    {
+      "lesson": 0,
+      "title": "00. Glosario general",
+      "idevices": [
+        {
+          "type": "Teoría corta",
+          "content": "Definiciones clave (activo, amenaza, vulnerabilidad, riesgo, control, MFA, cifrado...)."
+        },
+        {
+          "type": "Actividad",
+          "content": "Lee el glosario y anota 3 ejemplos propios por término."
+        },
+        {
+          "type": "Autoevaluación",
+          "content": "Cuestionario de vocabulario (importar quiz_Glosario.gift)."
+        }
+      ]
+    },
+    {
+      "lesson": 1,
+      "title": "1. Fundamentos, inventario y priorización",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "2. Contraseñas‑frase, gestor y MFA",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "3. Señales y protocolo anti‑phishing",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "4. Hardening básico de Windows 11",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "5. Wi‑Fi/Router seguro",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "6. Copias 3‑2‑1 + restauración",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "7. Cifrado práctico (7‑Zip/VeraCrypt)",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "8. Observación de tu red (ética)",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "9. Respuesta ante incidentes",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "10. Proyecto integrador + test final",
+      "idevices": [
+        "Objetivos",
+        "Teoría corta",
+        "Caso práctico",
+        "Actividad",
+        "Autoevaluación"
+      ]
+    }
+  ]
+}
