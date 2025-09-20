@@ -56,6 +56,15 @@
       <p class="small">Estructura sugerida por lección.</p>
       <a class="btn" href="../exe/idesign.json">⬇️ Descargar</a>
     </div>
+    <hr />
+<p class="small" style="text-align:center; margin:1rem 0 2rem;">
+  © <span id="y"></span> Rubén Muñoz Valadés · Docente SSCE0110 ·
+  <a href="../LICENSE">Licencia MIT</a> ·
+  <a href="https://github.com/rumuva/Curso-de-ciberseguridad_By_Ruben-Munoz">Repositorio</a>
+</p>
+<script>document.getElementById('y').textContent = new Date().getFullYear()</script>
+
   </div>
+  
 
 </div>
