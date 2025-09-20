@@ -1,24 +1,68 @@
 
+/* Tema cálido (melocotón/sandstone) — más contraste que marfil */
 :root{
-  --bg:#fff7f0; --card:#ffffff; --ink:#3a2f2a; --muted:#6b5e57;
-  --accent:#c2573a; --accent-2:#f0b27a; --accent-3:#ffd7b5;
+  --bg:#ffe4cf;           /* melocotón claro (fondo general) */
+  --panel:#fff6ee;        /* paneles suaves */
+  --card:#ffffff;
+  --ink:#2f251f;          /* marrón oscuro para texto */
+  --muted:#6a5b53;
+  --accent:#bf4b2b;       /* terracota intensa (botones/enlaces) */
+  --accent-2:#ffb689;     /* melocotón medio (badges) */
+  --accent-3:#ffd2ad;     /* melocotón muy claro (degradados) */
 }
-html, body{ background:var(--bg); color:var(--ink); font-family:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,Helvetica,Arial; line-height:1.6; }
-a{ color:var(--accent); text-decoration:none } a:hover{ text-decoration:underline }
-.hero{ margin:1.5rem 0 1rem; padding:1.2rem 1.4rem; border-radius:18px;
-  background:linear-gradient(135deg, var(--accent-3), #fff); border:1px solid #ffe6d4;
-  box-shadow:0 10px 24px rgba(194,87,58,.08) }
-.hero h1{ margin:.2rem 0 .8rem; font-size:1.9rem }
-.badge{ display:inline-block; background:var(--accent-2); color:#442c22; padding:.18rem .5rem; border-radius:999px; font-size:.82rem }
-.grid{ display:grid; gap:.9rem; grid-template-columns:repeat(auto-fit,minmax(240px,1fr)) }
-.card{ background:var(--card); border:1px solid #f3e2d6; border-radius:14px; padding:.9rem 1rem; transition:box-shadow .2s ease, transform .05s ease }
-.card:hover{ box-shadow:0 8px 18px rgba(0,0,0,.06); transform:translateY(-1px) }
-.btns{ display:flex; gap:.6rem; flex-wrap:wrap; margin:.6rem 0 0 }
-.btn{ display:inline-block; padding:.55rem .9rem; border-radius:12px; border:1px solid #e9d4c4; background:#fff; color:var(--accent); font-weight:600 }
-.btn.primary{ background:var(--accent); color:#fff; border-color:var(--accent) }
-.btn.secondary{ background:#fff; color:var(--accent) }
-.index ul{ list-style:none; padding-left:0 }
-.index li{ margin:.4rem 0; padding:.35rem .55rem; border-radius:10px; background:#fff; border:1px solid #f1e3d9 }
-.index li a{ font-weight:600 }
-.small{ color:var(--muted); font-size:.92rem }
-kbd{ background:#f5e9e0; border:1px solid #e8d6c6; border-bottom-width:2px; padding:.08rem .35rem; border-radius:6px }
+
+html, body{
+  background: var(--bg);
+  color: var(--ink);
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Ubuntu, Cantarell, Noto Sans, Helvetica, Arial;
+  line-height: 1.6;
+}
+
+a{ color: var(--accent); text-decoration: none; }
+a:hover{ text-decoration: underline; }
+
+/* contenedor opcional para textos largos */
+.container{ max-width: 980px; margin: 0 auto; padding: 0 14px; }
+
+.hero{
+  margin: 1.4rem 0 1rem;
+  padding: 1.2rem 1.3rem;
+  border-radius: 18px;
+  background: linear-gradient(135deg, var(--accent-3), var(--panel));
+  border: 1px solid #ffdcc6;
+  box-shadow: 0 10px 24px rgba(191,75,43,.08);
+}
+.hero h1{ margin: .2rem 0 .8rem; font-size: 1.9rem; }
+.badge{ display:inline-block; background:var(--accent-2); color:#3d2a23; padding:.18rem .55rem; border-radius:999px; font-size:.82rem; }
+
+.grid{
+  display:grid; gap: .95rem;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+}
+.card{
+  background: var(--card);
+  border: 1px solid #f5d8c7;
+  border-radius: 14px;
+  padding: .95rem 1rem;
+  transition: box-shadow .2s ease, transform .05s ease;
+}
+.card:hover{ box-shadow: 0 8px 18px rgba(0,0,0,.08); transform: translateY(-1px); }
+
+/* Botones */
+.btns{ display:flex; gap:.6rem; flex-wrap:wrap; margin:.6rem 0 0; }
+.btn{
+  display:inline-block; padding:.6rem .95rem; border-radius:12px;
+  border:1px solid #efcbb7; background:#fff; color:var(--accent); font-weight:600;
+}
+.btn.primary{ background: var(--accent); color: #fff; border-color: var(--accent); }
+.btn.secondary{ background:#fff; color:var(--accent); }
+.btn:hover{ filter: brightness(0.98); text-decoration:none; }
+
+/* Listas del índice */
+.index ul{ list-style: none; padding-left: 0; }
+.index li{ margin:.45rem 0; padding:.38rem .6rem; border-radius:10px; background:#fff; border:1px solid #f0cfbe; }
+.index li a{ font-weight:600; }
+.small{ color:var(--muted); font-size:.92rem; }
+
+/* Etiquetas utilitarias */
+kbd{ background:#ffe9db; border:1px solid #efcbb7; border-bottom-width:2px; padding:.08rem .35rem; border-radius:6px; }
