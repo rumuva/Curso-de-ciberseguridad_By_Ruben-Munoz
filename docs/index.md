@@ -4,8 +4,13 @@
 
   <div class="hero">
     <span class="badge">Edición actualizada</span>
+
+    <!-- Logo (opcional). Si tienes docs/assets/logo-ruben.png, se mostrará: -->
+    <img src="./assets/logo-ruben.png" alt="Rubén Muñoz · Docente" style="height:40px; vertical-align:middle; margin:0 .5rem -.2rem 0;">
+
     <h1>Curso de Ciberseguridad (50 h)</h1>
     <p class="small">Explicado paso a paso, con ejemplos reales, glosario y autoevaluaciones. Ideal para empezar desde cero.</p>
+
     <div class="btns">
       <a class="btn primary" href="./00-Glosario.md">📚 Glosario general</a>
       <a class="btn secondary" href="./Chuleta-Glosario.pdf">🧾 Descargar chuleta</a>
@@ -56,15 +61,15 @@
       <p class="small">Estructura sugerida por lección.</p>
       <a class="btn" href="../exe/idesign.json">⬇️ Descargar</a>
     </div>
-    <hr />
-<p class="small" style="text-align:center; margin:1rem 0 2rem;">
-  © <span id="y"></span> Rubén Muñoz Valadés · Docente SSCE0110 ·
-  <a href="../LICENSE">Licencia MIT</a> ·
-  <a href="https://github.com/rumuva/Curso-de-ciberseguridad_By_Ruben-Munoz">Repositorio</a>
-</p>
-<script>document.getElementById('y').textContent = new Date().getFullYear()</script>
-
   </div>
-  
+
+  <hr />
+  <p class="small" style="text-align:center; margin:1rem 0 2rem;">
+    © <span id="y"></span> Rubén Muñoz Valadés · Docente SSCE0110 ·
+    <a href="../LICENSE">Licencia MIT</a> ·
+    <a href="https://github.com/rumuva/Curso-de-ciberseguridad_By_Ruben-Munoz">Repositorio</a>
+  </p>
+  <script>document.getElementById('y').textContent = new Date().getFullYear()</script>
 
 </div>
+
